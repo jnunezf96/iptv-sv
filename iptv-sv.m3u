@@ -1,66 +1,81 @@
 #EXTM3U
-#EXTINF:-1 group-title="El Salvador" tvg-id="Canal2.sv",Canal 2
+
+#EXTINF:-1 group-title="USA",Univision 34
+http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410641
+#EXTINF:-1 group-title="USA",Univision East
+http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410637
+#EXTINF:-1 group-title="USA",Univision East
+http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410630
+#EXTINF:-1 group-title="USA",Unimás East
+http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410617
+#EXTINF:-1 group-title="USA",Unimás West
+http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410630
+#EXTINF:-1 group-title="USA",Telemundo 52
+http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410604
+#EXTINF:-1 group-title="USA",Galavision
+http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410593
+#EXTINF:-1 group-title="USA",FOX News
+http://watchindia.net:8880/live/83525/42965/2057.m3u8
+#EXTINF:-1 group-title="USA",CNN News
+http://watchindia.net:8880/live/83525/42965/2058.m3u8
+#EXTINF:-1 group-title="USA",MSNBC News
+http://watchindia.net:8880/live/83525/42965/2060.m3u8
+#EXTINF:-1 group-title="USA",ABC News
+http://watchindia.net:8880/live/83525/42965/2120.m3u8
+#EXTINF:-1 group-title="USA",BBC World News
+http://watchindia.net:8880/live/83525/42965/2579.m3u8
+#EXTINF:-1 group-title="USA",NBC News Now
+http://watchindia.net:8880/live/83525/42965/2580.m3u8
+#EXTINF:-1 group-title="USA",Newsnation
+http://watchindia.net:8880/live/83525/42965/2509.m3u8
+
+#EXTINF:-1 group-title="El Salvador",Canal 2
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="Canal3Impresionante.sv",Canal 3 Impresionante
+#EXTINF:-1 group-title="El Salvador",Canal 3 Impresionante
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="Canal4.sv",Canal 4
+#EXTINF:-1 group-title="El Salvador",Canal 4
 #EXTVLCOPT:http-referrer=https://www.tcsgo.com/
 https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="Canal6.sv",Canal 6
+#EXTINF:-1 group-title="El Salvador",Canal 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="Canal12.sv",Canal 12
+#EXTINF:-1 group-title="El Salvador",Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="MegavisionCanal19.sv",Megavisión Canal 19
+#EXTINF:-1 group-title="El Salvador",Megavisión Canal 19
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="MegavisionCanal21.sv",Megavisión Canal 21
+#EXTINF:-1 group-title="El Salvador",Megavisión Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="LegislativeAssemblyofElSalvador.sv",Asamblea Legislativa de El Salvador
+#EXTINF:-1 group-title="El Salvador",Asamblea Legislativa de El Salvador
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="WOWTV.sv",WOW TV
+#EXTINF:-1 group-title="El Salvador",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="OrbitaFM.sv",Órbita FM
+#EXTINF:-1 group-title="El Salvador",Órbita FM
 https://fl1003.bozztv.com/ssh101/OrbitaFM953/index.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="OrbitaTV.sv",Órbita TV
+#EXTINF:-1 group-title="El Salvador",Órbita TV
 https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="Canal65.sv",Canal 65
+#EXTINF:-1 group-title="El Salvador",Canal 65
 https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="ArboldeVidaTV.sv",Árbol de Vida TV
+#EXTINF:-1 group-title="El Salvador",Árbol de Vida TV
 https://www.yupi.live:1936/livearbol/livearbol/playlist.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="ElCaminoTV.sv",El Camino TV
+#EXTINF:-1 group-title="El Salvador",El Camino TV
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="GSGTV.sv",GSG TV
+#EXTINF:-1 group-title="El Salvador",GSG TV
 https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="JosueTV.sv",Josué TV
+#EXTINF:-1 group-title="El Salvador",Josué TV
 https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="TaberTV.sv",Taber TV
+#EXTINF:-1 group-title="El Salvador",Taber TV
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="TCSPlus.sv",TCS+
+#EXTINF:-1 group-title="El Salvador",TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="TigoSports.sv",Tigo Sports TV El Salvador
+#EXTINF:-1 group-title="El Salvador",Tigo Sports TV El Salvador
 https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="TVGetsemani.sv",TV Getsemaní
+#EXTINF:-1 group-title="El Salvador",TV Getsemaní
 https://serversv.com:8080/hls/tvgetsemani.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="TVLeondeJuda.sv",TV León de Judá
+#EXTINF:-1 group-title="El Salvador",TV León de Judá
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="TVCa.sv",TVCa Televisión Católica Arquidiocesana
+#EXTINF:-1 group-title="El Salvador",TVCa Televisión Católica Arquidiocesana
 https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
-#EXTINF:-1 group-title="El Salvador" tvg-id="TVMElSalvador.sv",TVM El Salvador
+#EXTINF:-1 group-title="El Salvador",TVM El Salvador
 http://201.247.102.189/tmp_hls/stream/index.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-id="foxnews.com",FOX News
-http://watchindia.net:8880/live/83525/42965/2057.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="cnn.com",CNN News
-http://watchindia.net:8880/live/83525/42965/2058.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="msnbc.com",MSNBC News
-http://watchindia.net:8880/live/83525/42965/2060.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="abcnews.go.com",ABC News
-http://watchindia.net:8880/live/83525/42965/2120.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="bbc.com",BBC World News
-http://watchindia.net:8880/live/83525/42965/2579.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="nbcnews.com",NBC News Now
-http://watchindia.net:8880/live/83525/42965/2580.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="newsnationnow.com",Newsnation
-http://watchindia.net:8880/live/83525/42965/2509.m3u8
 
 #EXTINF:0 group-title="Espana",DAZN 1 HD
 http://vip.bmbtv.me:15000/ttmCajK2d1/gJYgF2Qc4B/82133
