@@ -1,34 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="USA",Univision 34
-http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410641
-#EXTINF:-1 group-title="USA",Univision East
-http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410637
-#EXTINF:-1 group-title="USA",Univision East
-http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410630
-#EXTINF:-1 group-title="USA",Unimás East
-http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410617
-#EXTINF:-1 group-title="USA",Unimás West
-http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410630
-#EXTINF:-1 group-title="USA",Telemundo 52
-http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410604
-#EXTINF:-1 group-title="USA",Galavision
-http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410593
-#EXTINF:-1 group-title="USA",FOX News
-http://watchindia.net:8880/live/83525/42965/2057.m3u8
-#EXTINF:-1 group-title="USA",CNN News
-http://watchindia.net:8880/live/83525/42965/2058.m3u8
-#EXTINF:-1 group-title="USA",MSNBC News
-http://watchindia.net:8880/live/83525/42965/2060.m3u8
-#EXTINF:-1 group-title="USA",ABC News
-http://watchindia.net:8880/live/83525/42965/2120.m3u8
-#EXTINF:-1 group-title="USA",BBC World News
-http://watchindia.net:8880/live/83525/42965/2579.m3u8
-#EXTINF:-1 group-title="USA",NBC News Now
-http://watchindia.net:8880/live/83525/42965/2580.m3u8
-#EXTINF:-1 group-title="USA",Newsnation
-http://watchindia.net:8880/live/83525/42965/2509.m3u8
-
 #EXTINF:-1 group-title="El Salvador",Canal 2
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 #EXTINF:-1 group-title="El Salvador",Canal 3 Impresionante
@@ -93,3 +64,35 @@ http://vip.bmbtv.me:15000/ttmCajK2d1/gJYgF2Qc4B/82138
 http://vip.bmbtv.me:15000/ttmCajK2d1/gJYgF2Qc4B/82132
 #EXTINF:0 group-title="Espana",DAZN LaLiga HD
 http://vip.bmbtv.me:15000/ttmCajK2d1/gJYgF2Qc4B/82137
+
+#EXTINF:-1 group-title="USA",Univision 34
+http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410641
+#EXTINF:-1 group-title="USA",Univision East
+http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410637
+#EXTINF:-1 group-title="USA",Univision East
+http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410630
+#EXTINF:-1 group-title="USA",Unimás East
+http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410617
+#EXTINF:-1 group-title="USA",Unimás West
+http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410630
+#EXTINF:-1 group-title="USA",Telemundo 52
+http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410604
+#EXTINF:-1 group-title="USA",Galavision
+http://globalstreamz.xyz:3050/scriptsbyl@gmail.com/Bu3H8DKHz5/410593
+#EXTINF:-1 group-title="USA",FOX News
+http://watchindia.net:8880/live/83525/42965/2057.m3u8
+#EXTINF:-1 group-title="USA",CNN News
+http://watchindia.net:8880/live/83525/42965/2058.m3u8
+#EXTINF:-1 group-title="USA",MSNBC News
+http://watchindia.net:8880/live/83525/42965/2060.m3u8
+#EXTINF:-1 group-title="USA",ABC News
+http://watchindia.net:8880/live/83525/42965/2120.m3u8
+#EXTINF:-1 group-title="USA",BBC World News
+http://watchindia.net:8880/live/83525/42965/2579.m3u8
+#EXTINF:-1 group-title="USA",NBC News Now
+http://watchindia.net:8880/live/83525/42965/2580.m3u8
+#EXTINF:-1 group-title="USA",Newsnation
+http://watchindia.net:8880/live/83525/42965/2509.m3u8
+
+#EXTINF:-1 group-title="SPORTS", ESPN DEPORTES
+http://190.92.10.66:4000/play/a003/index.m3u8
